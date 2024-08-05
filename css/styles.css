@@ -27,7 +27,7 @@ body {
   color: #404bbf;
 }
 
-.address-list {
+.address-list-link {
   color: #434455;
   text-decoration: none;
   font-style: normal;
@@ -36,8 +36,8 @@ body {
   letter-spacing: 0.02em;
 }
 
-.address-list:hover,
-.address-list:focus {
+.address-list-link:hover,
+.address-list-link:focus {
   color: #404bbf;
 }
 
