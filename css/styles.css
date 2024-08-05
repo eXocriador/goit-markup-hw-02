@@ -182,8 +182,10 @@ footer {
 
 .logo .logo-studio-part-header {
   color: #2e2f42;
+  font-family: inherit;
 }
 
 .logo .logo-studio-part-footer {
   color: #f4f4fd;
+  font-family: inherit;
 }
