@@ -27,10 +27,13 @@ body {
   color: #404bbf;
 }
 
+.address-list {
+  font-style: normal;
+}
+
 .address-list-link {
   color: #434455;
   text-decoration: none;
-  font-style: normal;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
